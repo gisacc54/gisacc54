@@ -9,7 +9,8 @@
 
 - 💬 Ask me about **Golang,PHP,JavaScript, React js, Nextjs,SQL & Bioinformatics**
 
-- 📫 How to reach me: **giftisacc54@gmail.com**
+- 📫 How to reach me: <a href="mailto:kumbharamit8@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kumbharamit8@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 - ⚡ Fun fact: **I'm in a blissful relationship with Jesus Christ.**
 
