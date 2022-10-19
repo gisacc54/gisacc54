@@ -25,5 +25,5 @@
 
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gisacc54&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Gift Msigwa's github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gisacc54&theme=radical&layout=compact"  alt="Gift Msigwa's github stats"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisacc54&theme=radical&hide=html,handlebars,css,pug,sass&langs_count=8&layout=compact"  alt="Gift Msigwa's github stats"> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=gisacc54&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Gift Msigwa's github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gisacc54&theme=radical&layout=compact&count_private=true&include_all_commits=true"  alt="Gift Msigwa's github stats"> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisacc54&theme=radical&hide=html,handlebars,css,pug,sass&langs_count=20&layout=compact&count_private=true&include_all_commits=true"  alt="Gift Msigwa's github stats"> |
 | ------------- | ------------- | ------------- |
