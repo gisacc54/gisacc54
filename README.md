@@ -25,7 +25,7 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=gisacc54&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /> |
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gisacc54&theme=radical" alt="gisacc54" /> |
-| ------------------ | ------------------ |
+| ------------- | ------------- |
 
 
 
