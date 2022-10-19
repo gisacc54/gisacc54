@@ -7,8 +7,9 @@
 
 - 🔭 I’m currently working on **Bioinformatics project**
 
-- 👯 I’m looking to collaborate on **Open source projects,Coding Challenges and Hackathons**
 - 🌱 I’m currently learning **Blockchain Development & React js**
+
+- 👯 I’m looking to collaborate on **Open source projects,Coding Challenges and Hackathons**
 
 - 💬 Ask me about **Golang,PHP,JavaScript, React js, Nextjs,SQL & Bioinformatics**
 
