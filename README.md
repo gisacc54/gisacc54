@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Golang,PHP,JavaScript, React js, Nextjs,SQL & Bioinformatics**
 
-- 📫 How to reach me **giftisacc54@gmail.com**
+- 📫 How to reach me: **giftisacc54@gmail.com**
 
-- ⚡ Fun fact **I'm in a blissful relationship with Jesus Christ.**
+- ⚡ Fun fact: **I'm in a blissful relationship with Jesus Christ.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
