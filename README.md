@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gift Msigwa, a self-motivated tech enthusiast and Software Engineer</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gisacc54&label=Profile%20views&color=0e75b6&style=flat" alt="gisacc54" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gisacc54&label=Profile%20views&color=f8d847&style=plastic" alt="gisacc54" /> </p>
 
 - 🔭 I’m currently working on **Bioinformatics project**
 
