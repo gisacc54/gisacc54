@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gift Msigwa, a self-motivated tech enthusiast and Software Engineer with 6+ Years of experience</h1>
+<h1 align="center">Hi 👋, I'm Gift Msigwa, a self-motivated tech enthusiast and Software Engineer with 7+ Years of experience</h1>
 
 <img align="right" alt="Coding" width="400" src="image.gif">
 
